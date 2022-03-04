@@ -3,7 +3,7 @@
 
 **SimpleTweet** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -14,11 +14,11 @@ The following **required** functionality is completed:
   - [X] User can then enter a new tweet and post this to twitter
   - [X] User is taken back to home timeline with **new tweet visible** in timeline
   - [X] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
-  - [ ] User can **see a counter with total number of characters left for tweet** on compose tweet page
+  - [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
 The following **optional** features are implemented:
 
-- [ ] User is using **"Twitter branded" colors and styles**
+- [X] User is using **"Twitter branded" colors and styles**
 - [X] User can click links in tweets launch the web browser 
 - [ ] User can **select "reply" from detail view to respond to a tweet**
 - [ ] The "Compose" action is moved to a FloatingActionButton instead of on the AppBar
@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/YYRxjxwnRs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
