@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [X] User is using **"Twitter branded" colors and styles**
+- [ ] User is using **"Twitter branded" colors and styles**
 - [X] User can click links in tweets launch the web browser 
 - [ ] User can **select "reply" from detail view to respond to a tweet**
 - [ ] The "Compose" action is moved to a FloatingActionButton instead of on the AppBar
@@ -30,7 +30,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] List anything else that you can get done to improve the app functionality!
+- I changed the action bar color to twitter blue and changed compose icon from pencil to look like twitter style.
 
 ## Video Walkthrough
 
